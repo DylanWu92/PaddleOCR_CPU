@@ -44,7 +44,7 @@ PaddleOCR-VL_CPU 是一个基于 PaddlePaddle 的 OCR（光学字符识别）系
 使用Git克隆项目到本地（如果没有Git，也可以直接下载ZIP文件并解压）：
 
 ```bash
-git clone https://github.com/yourusername/PaddleOCR_CPU.git
+git clone https://github.com/dylanwu92/PaddleOCR_CPU.git
 cd PaddleOCR_CPU
 ```
 
@@ -213,5 +213,5 @@ print(result)
 ## 联系方式
 
 如有问题或建议，请通过以下方式联系我们：
-- 项目GitHub仓库：[GitHub链接]
-- 邮箱：[联系邮箱]
+- 项目GitHub仓库：[[GitHub链接](https://github.com/DylanWu92/PaddleOCR_CPU)]
+- 邮箱：[w545317335@163.com]
