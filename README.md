@@ -214,4 +214,4 @@ print(result)
 
 如有问题或建议，请通过以下方式联系我们：
 - 项目GitHub仓库：[[GitHub链接](https://github.com/DylanWu92/PaddleOCR_CPU)]
-- 邮箱：[[邮件地址](w545317335@163.com)]
+- 邮箱:w545317335@163.com
