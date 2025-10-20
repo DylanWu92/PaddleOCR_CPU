@@ -1,0 +1,24 @@
+# PaddleOCR-VL_CPU 依赖列表
+
+# PaddlePaddle核心库（CPU版本）
+paddlepaddle==2.5.0
+
+# PaddleOCR OCR引擎
+paddleocr==2.7.0.3
+
+# 图像处理库
+opencv-python==4.8.0.76
+pillow==9.5.0
+
+# 科学计算库
+numpy==1.24.3
+
+# GUI界面（Python标准库，通常不需要额外安装）
+# tkinter
+
+# 可选：性能优化库
+# onnxruntime==1.14.1  # 如需使用ONNX运行时加速
+
+# 可选：数据处理库
+# pandas==2.0.2  # 如需更复杂的数据处理
+# matplotlib==3.7.1  # 如需可视化
